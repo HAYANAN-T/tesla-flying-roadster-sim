@@ -1,0 +1,13 @@
+{
+  "ideal_gas_start_pressure_bar": 358.75,
+  "start_exhaust_velocity_m_s": 630.0216753386618,
+  "full_throttle_burn_s": 12.918000000000983,
+  "total_impulse_kNs": 122.80714601596237,
+  "thrust_after_1s_kN": 39.615815066209315,
+  "hover_s": {
+    "1500": 5.793999999999584,
+    "1800": 4.639999999999711,
+    "2100": 3.799999999999803
+  },
+  "hop_2p5m_air_kg": 61.846505682014325
+}
